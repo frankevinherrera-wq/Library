@@ -1,0 +1,9 @@
+
+
+article h2{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(227, 209, 148);
+    max-width: fit-content;
+    border: 2px solid rgb(238, 0, 255);
+}
